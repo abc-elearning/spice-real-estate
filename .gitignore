@@ -5,3 +5,4 @@
 .spice_re/
 __pycache__/
 *.pyc
+.venv/
