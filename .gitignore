@@ -1,0 +1,7 @@
+.claude/designs/
+.claude/qa/evidence/
+.claude/context/sessions/
+.claude/context/build-state/
+.spice_re/
+__pycache__/
+*.pyc
